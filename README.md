@@ -5,3 +5,5 @@ The **Document Management Application** combines Oracle APEX, AI Vector Search, 
 With document upload, automated embedding generation, semantic search, approval workflows, and AI-assisted interaction, the application provides a complete foundation for building a modern knowledge base.
 
 
+#License
+This application is provided for educational and demonstration purposes.
